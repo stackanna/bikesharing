@@ -41,9 +41,9 @@ The following is a visualization from the module displaying a heatmap of the tim
 ![alt text](https://github.com/stackanna/bikesharing/blob/9ea4c318adcfc009a07ab0f914017623289d4cc9/Screen%20Shot%202021-07-16%20at%205.23.42%20AM.png)
 
 
-# Summary:
+# Summary & Findings:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+The majority of the users for the citibike are males. The majority of the users are subscribers. The peak times are between 5 & 7 pm. The younger the user, the longer the duration of the trip. It would be a safe assumption to say young males with a commute from work to home would prefer to use a bike app for their travel. 
 
 
 https://public.tableau.com/views/CitiBikiModuleChallenge/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
