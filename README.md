@@ -24,7 +24,22 @@ Results:
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
-Summary:
+
+![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge1.png)
+
+![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge2.png)
+
+![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge3.png)
+
+![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge4.png)
+
+![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge5.png)
+
+![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharing7.png)
+
+![alt text](https://github.com/stackanna/bikesharing/blob/fa247232b6374661f944d03ae8eea25d402fe18c/bike%20share6.png)
+
+# Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
