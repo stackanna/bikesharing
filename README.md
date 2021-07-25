@@ -6,38 +6,37 @@ We were hired to convince investors that a bike-sharing program in Des Moines Io
 
 # Resources Used: Python & Pandas functions for the data & Tableau Public for the Vizualizations
 
+# Summary 
 
-
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (24 points)
-
-The written analysis has the following:
-
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (5 pt)
-Results:
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+For deliverable one we were converting the "tripduation" column from an integer to a datetime datatype to get the time in hours, minutes, amnd seconds (00:00:00). It was then exported into a DataFrame as a CSV file that we used for our visualizations in Tableau Public. 
 
 ![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharing7.png)
 
+This line graph displays the bikes that are checked out for all riders. 
+
 ![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge1.png)
+
+This line graph displays the length of times that the bikes are checked out for each gender.
 
 ![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge2.png)
 
+This is a heatmap displaying the number of bike trips by weekday for each hour of the day.
+
 ![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge3.png)
+
+This is a heatmap displaying the number of bike trips by gender for each hour of the day. 
 
 ![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge4.png)
 
+This visualization is a graphed number of bike trips for each hour for each day of the week. 
+
 ![alt text](https://github.com/stackanna/bikesharing/blob/7390c48351d818974fd3126def7538de80edc5a7/bikesharechallenge5.png)
 
+A pie graph displaying the different genders utilizing the bike sharing app.
+
 ![alt text](https://github.com/stackanna/bikesharing/blob/fa247232b6374661f944d03ae8eea25d402fe18c/bike%20share6.png)
+
+The following is a visualization from the module displaying a heatmap of the times by hour the bikes are checked out per week. 
 
 ![alt text](https://github.com/stackanna/bikesharing/blob/9ea4c318adcfc009a07ab0f914017623289d4cc9/Screen%20Shot%202021-07-16%20at%205.23.42%20AM.png)
 
