@@ -1,12 +1,12 @@
-# bikesharing
+# Bike Sharing Challenge Overview
 
 Click [HERE](https://github.com/stackanna/bikesharing/blob/f2412822c21379e9cf55c2825f7f938b0ca57caf/NYC_Citibike_Challenge.ipynb) to view [Citi Bike Challenge Analysis](https://github.com/stackanna/bikesharing/blob/f2412822c21379e9cf55c2825f7f938b0ca57caf/NYC_Citibike_Challenge.ipynb)
 
-Deliverable 3 Requirements
+We were hired to convince investors that a bike-sharing program in Des Moines Iowa is a solid business investment & proposal. A stakeholder inquired upon a bike trip analysis & we used the following for our research and findings. 
 
-You will earn a perfect score for Deliverable 3 by completing all requirements below:
+# Resources Used: Python & Pandas functions for the data & Tableau Public for the Vizualizations
 
-Structure, Organization, and Formatting (6 points)
+
 
 The written analysis has the following structure, organization, and formatting:
 
